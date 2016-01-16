@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitnessMantra</string>
+    <string name="title_text">Bmi Calculator</string>
+    <string name="button_submit">Calculate</string>
+    <string name="height_feet">feet</string>
+    <string name="height_inch">inch</string>
+    <string name="weight_text">Enter Weight in Kg</string>
+    <string name="Bmi_cal">Bmi:</string>
+</resources>
